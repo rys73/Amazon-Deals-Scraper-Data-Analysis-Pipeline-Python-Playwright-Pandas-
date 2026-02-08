@@ -136,3 +136,4 @@ plt.close()
 
 print("Tous les graphiques ont été générés en PDF séparés")
 
+
